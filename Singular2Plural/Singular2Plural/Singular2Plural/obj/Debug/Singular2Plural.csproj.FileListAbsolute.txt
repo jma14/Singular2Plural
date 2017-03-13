@@ -1,0 +1,9 @@
+C:\Users\jarno\OneDrive\Documents\MyStuff\Singular2Plural\Singular2Plural\Singular2Plural\bin\Debug\Singular2Plural.exe.config
+C:\Users\jarno\OneDrive\Documents\MyStuff\Singular2Plural\Singular2Plural\Singular2Plural\bin\Debug\Singular2Plural.exe
+C:\Users\jarno\OneDrive\Documents\MyStuff\Singular2Plural\Singular2Plural\Singular2Plural\bin\Debug\Singular2Plural.pdb
+C:\Users\jarno\OneDrive\Documents\MyStuff\Singular2Plural\Singular2Plural\Singular2Plural\obj\Debug\Singular2Plural.csprojResolveAssemblyReference.cache
+C:\Users\jarno\OneDrive\Documents\MyStuff\Singular2Plural\Singular2Plural\Singular2Plural\obj\Debug\Singular2Plural.exe
+C:\Users\jarno\OneDrive\Documents\MyStuff\Singular2Plural\Singular2Plural\Singular2Plural\obj\Debug\Singular2Plural.pdb
+C:\Users\jarno\OneDrive\Documents\MyStuff\Singular2Plural\Singular2Plural\Singular2Plural\Singular2Plural\bin\Debug\Singular2Plural.exe.config
+C:\Users\jarno\OneDrive\Documents\MyStuff\Singular2Plural\Singular2Plural\Singular2Plural\Singular2Plural\obj\Debug\Singular2Plural.exe
+C:\Users\jarno\OneDrive\Documents\MyStuff\Singular2Plural\Singular2Plural\Singular2Plural\Singular2Plural\obj\Debug\Singular2Plural.pdb
